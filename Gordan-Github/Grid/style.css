@@ -1,0 +1,19 @@
+.container {
+  background-color: #eee;
+  border-radius: 10px;
+}
+
+.item {
+    background-color:  #f39c12;
+    border-radius: 5px;
+    font-size: 4rem;
+}
+
+.hide {
+    opacity: 0;
+}
+
+/* mobile */
+@media all and (max-width:600px) {
+   
+}
